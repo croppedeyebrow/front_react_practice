@@ -15,7 +15,10 @@ import "./App.css";
 // import Counter from "./Hooks1";
 // import NameCard from "./NameCard";
 // import MemberInfo from "./Hooks2";
-import Counter2 from "./Hooks3";
+// import Counter2 from "./Hooks3";
+// import Average from "./Hooks4";
+// import Averages from "./Hooks5";
+import Averagess from "./Hooks6";
 
 function App() {
   return (
@@ -34,7 +37,10 @@ function App() {
       {/* <Counter /> */}
       {/* <NameCard /> */}
       {/* <MemberInfo /> */}
-      <Counter2 />
+      {/* <Counter2 /> */}
+      {/* <Average /> */}
+      {/* <Averages /> */}
+      <Averagess />
     </>
   );
 }
